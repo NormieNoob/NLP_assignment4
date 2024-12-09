@@ -1,0 +1,36 @@
+# Python virtual environment
+venv/
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Database files
+chroma_db/
+
+# Python-specific
+*.pyo
+*.pyd
+*.pdb
+
+# JetBrains-specific (if using PyCharm or IntelliJ IDEA)
+.idea/
+
+# Environment variables
+.env
+
+# Miscellaneous
+*.swp
+*.bak
+*.tmp
+
+# Generated data files
+data/mscsdata.pdf
