@@ -34,3 +34,5 @@ chroma_db/
 
 # Generated data files
 !data/
+
+data/mscsdata.pdf
