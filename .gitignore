@@ -33,4 +33,4 @@ chroma_db/
 *.tmp
 
 # Generated data files
-data/mscsdata.pdf
+!data/
